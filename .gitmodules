@@ -8,3 +8,8 @@
 	url = https://github.com/flh3/cr2
 	shallow = true
 	registered = true
+[submodule "MLMusingR"]
+	path = MLMusingR
+	url = https://github.com/flh3/mlmusingr
+	shallow = true
+	registered = true
