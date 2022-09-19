@@ -2,9 +2,5 @@
   {
     "package": "CR2",
     "oncran": true
-  },
-  {
-    "package": "MLMusingR",
-    "oncran": true
   }
 ]
