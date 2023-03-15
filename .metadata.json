@@ -1,10 +1,10 @@
 [
   {
-    "package": "MLMusingR",
+    "package": "CR2",
     "oncran": true
   },
   {
-    "package": "CR2",
+    "package": "MLMusingR",
     "oncran": true
   }
 ]
