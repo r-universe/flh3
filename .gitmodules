@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CR2"]
 	path = CR2
 	url = https://github.com/flh3/cr2
-	shallow = true
-	registered = true
 [submodule "gendata"]
 	path = gendata
 	url = https://github.com/cran/gendata
-	shallow = true
-	registered = true
 [submodule "hornpa"]
 	path = hornpa
 	url = https://github.com/flh3/hornpa
-	shallow = true
-	registered = true
 [submodule "MLMusingR"]
 	path = MLMusingR
 	url = https://github.com/flh3/mlmusingr
-	shallow = true
-	registered = true
