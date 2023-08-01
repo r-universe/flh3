@@ -5,12 +5,12 @@
 [submodule "CR2"]
 	path = CR2
 	url = https://github.com/flh3/cr2
+[submodule "MLMusingR"]
+	path = MLMusingR
+	url = https://github.com/flh3/mlmusingr
 [submodule "gendata"]
 	path = gendata
 	url = https://github.com/cran/gendata
 [submodule "hornpa"]
 	path = hornpa
 	url = https://github.com/flh3/hornpa
-[submodule "MLMusingR"]
-	path = MLMusingR
-	url = https://github.com/flh3/mlmusingr
